@@ -10,6 +10,8 @@ public class Demo {
         LocalTimeTest.test();
         System.out.println("-------------------------");
         LocalDateTimeTest.test();
+        System.out.println("-------------------------");
+        TimeZoneTest.test();
 
     }
 }
