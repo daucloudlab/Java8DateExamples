@@ -8,6 +8,8 @@ public class Demo {
         LocalDateTest.test();
         System.out.println("-------------------------");
         LocalTimeTest.test();
+        System.out.println("-------------------------");
+        LocalDateTimeTest.test();
 
     }
 }
