@@ -12,6 +12,10 @@ public class Demo {
         LocalDateTimeTest.test();
         System.out.println("-------------------------");
         TimeZoneTest.test();
+        System.out.println("-------------------------");
+        LocalDateFormatTest.test();
+        System.out.println("-------------------------");
+        FromInstantToLocalDateTest.test();
 
     }
 }
